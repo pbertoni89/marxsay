@@ -1,99 +1,311 @@
 The philosophers have only interpreted the world, in various ways; the point, however, is to change it.
+
 -- Karl Marx
+
 %
+
 Workers of the world unite; you have nothing to lose but your chains.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 The history of all hitherto existing society is the history of class struggles.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 From each according to his ability, to each according to his needs.
+
 -- Karl Marx
+
 %
+
 Capital is dead labour, which, vampire-like, lives only by sucking living labour.
+
 -- Karl Marx
+
 %
+
 The executive of the modern state is but a committee for managing the common affairs of the whole bourgeoisie.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 The ideas of the ruling class are in every epoch the ruling ideas.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 Men make their own history, but they do not make it just as they please under self-selected circumstances.
+
 -- Karl Marx
+
 %
+
 The free development of each is the condition for the free development of all.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 Hegel remarks that all great world-historic facts and personages appear twice: the first time as tragedy, the second as farce.
+
 -- Karl Marx
+
 %
+
 Society does not consist of individuals, but expresses the sum of interrelations in which these individuals stand.
+
 -- Karl Marx
+
 %
+
 Accumulation of wealth at one pole is at the same time accumulation of misery and toil at the opposite pole.
+
 -- Karl Marx
+
 %
+
 The production of too many useful things results in too many useless people.
+
 -- Karl Marx
+
 %
+
 Theory becomes a material force as soon as it has gripped the masses.
+
 -- Karl Marx
+
 %
+
 The emancipation of the working classes must be conquered by the working classes themselves.
+
 -- Karl Marx
+
 %
+
 Freedom does not consist in an imaginary independence from natural laws, but in the knowledge of these laws.
+
 -- Friedrich Engels
+
 %
+
 An ounce of action is worth a ton of theory.
+
 -- Friedrich Engels
+
 %
+
 The state is not abolished. It withers away.
+
 -- Friedrich Engels
+
 %
+
 Political power, properly so called, is merely the organised power of one class for oppressing another.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 The hand-mill gives you society with the feudal lord; the steam-mill society with the industrial capitalist.
+
 -- Karl Marx
+
 %
+
 Constant revolutionising of production distinguishes the bourgeois epoch from all earlier ones.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 All that is solid melts into air, all that is holy is profaned.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 Labour cannot emancipate itself in the white skin where in the black it is branded.
+
 -- Karl Marx
+
 %
+
 The ruling ideas of each age have ever been the ideas of its ruling class.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 In proportion as the exploitation of one individual by another will be put an end to, the exploitation of one nation by another will also be ended.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness.
+
 -- Karl Marx
+
 %
+
 Social progress can be measured precisely by the social position of the female sex.
+
 -- Karl Marx
+
 %
+
 Reason has always existed, but not always in a reasonable form.
+
 -- Karl Marx
+
 %
+
 The direct relation of labour to production is the relation of the worker to the objects of his production.
+
 -- Karl Marx
+
 %
+
 Every historical struggle is in reality only the more or less clear expression of struggles of social classes.
+
 -- Friedrich Engels
+
 %
+
 The modern labourer, instead of rising with the process of industry, sinks deeper and deeper below the conditions of existence of his own class.
+
 -- Karl Marx & Friedrich Engels
+
 %
+
 Nature is man's inorganic body.
+
 -- Karl Marx
+
 %
+
 Let the ruling classes tremble at a revolutionary change. The proletarians have nothing to lose but their chains. They have a world to win.
+
 -- Karl Marx & Friedrich Engels
+
+%
+
+While revolutionaries as individuals can be murdered, you cannot kill ideas.
+
+-- Thomas Sankara
+
+%
+
+Debt is a cleverly managed reconquest of Africa. It is a reconquest that turns each one of us into a financial slave.
+
+-- Thomas Sankara
+
+%
+
+We must dare to invent the future.
+
+-- Thomas Sankara
+
+%
+
+He who feeds you, controls you.
+
+-- Thomas Sankara
+
+%
+
+It is easier to imagine an end to the world than an end to capitalism.
+
+-- Mark Fisher
+
+%
+
+Capitalism seamlessly occupies the horizons of the thinkable.
+
+-- Mark Fisher
+
+%
+
+Emancipatory politics must always destroy the appearance of a 'natural order', must reveal what is presented as necessary and inevitable to be a mere contingency, just as it must make what was previously deemed to be impossible seem attainable.
+
+-- Mark Fisher
+
+%
+
+The end may justify the means as long as there is something that justifies the end.
+
+-- Leon Trotsky
+
+%
+
+Life is not an easy matter... You cannot live through it without falling into frustration and cynicism unless you have before you a great idea which raises you above personal misery, above weakness, above all kinds of perfidy and baseness.
+
+-- Leon Trotsky
+
+%
+
+Ideas that enter the mind under fire remain there securely and for ever.
+
+-- Leon Trotsky
+
+%
+
+If you tremble with indignation at every injustice then you are a comrade of mine.
+
+-- Ernesto Che Guevara
+
+%
+
+Let me say, at the risk of seeming ridiculous, that the true revolutionary is guided by great feelings of love.
+
+-- Ernesto Che Guevara
+
+%
+
+Cruel leaders are replaced only to have new leaders turn cruel.
+
+-- Ernesto Che Guevara
+
+%
+
+Words that do not match deeds are unimportant.
+
+-- Ernesto Che Guevara
+
+%
+
+A revolution is not a dinner party, or writing an essay, or painting a picture, or doing embroidery; it cannot be so refined, so leisurely and gentle, so temperate, kind, courteous, restrained and magnanimous. A revolution is an insurrection, an act of violence by which one class overthrows another.
+
+-- Mao Zedong
+
+%
+
+Political power grows out of the barrel of a gun.
+
+-- Mao Zedong
+
+%
+
+Women hold up half the sky.
+
+-- Mao Zedong
+
+%
+
+Let a hundred flowers bloom, let a hundred schools of thought contend.
+
+-- Mao Zedong
+
+%
+
+Investigation may be likened to the long months of pregnancy, and solving a problem to the day of birth. To investigate a problem is, indeed, to solve it.
+
+-- Mao Zedong
+
 %
