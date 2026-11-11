@@ -49,7 +49,7 @@ strfile "${dirDat}/marxism" "${dirDat}/marxism.dat"
 usrRc="${HOME}/.bashrc"
 defaultHello="marxsay-red"   # Options: marxsay, marxsay-col, marxsay-red, or ""
 
-# Use a unique tag so running setup_2.sh multiple times won't create duplicates
+# Use a unique tag so running setup.sh multiple times won't create duplicates
 if ! grep -q "# MARXSAY_CONFIG_START" "$usrRc"; then
     echo "Writing configuration to $usrRc..."
     cat << EOF >> "$usrRc"
